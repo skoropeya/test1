@@ -1,5 +1,0 @@
-ptint("йцукен")!!!
-print("hi")
-print("hello")
-print("Hey")
-
